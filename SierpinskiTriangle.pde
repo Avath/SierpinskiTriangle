@@ -9,7 +9,7 @@ public void draw()
 {
 	background(200,200,225);
   sierpinski(0,800,heights ); 
-  System.out.println(swtitch);
+  
   }
 
 public void keyPressed() {
